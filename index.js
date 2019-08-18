@@ -2,8 +2,13 @@ const getByName = require('./getByName');
 const getByCode = require('./getByCode')
 const getByDialCode = require('./getByDialCode')
 const { validateCode, validateMultipleCodes } = require('./validate');
+const getAll = require('./getAll')
 
 module.exports = {
+  getAll: {
+    asArray: getAll.asArray,
+    asObject: getAll.asObject,
+  },
   getInfo: {
     byCode: getByCode.info,
     byName: getByName.info,
