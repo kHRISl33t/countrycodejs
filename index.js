@@ -3,6 +3,7 @@ const getByCode = require('./getByCode')
 const getByDialCode = require('./getByDialCode')
 const { validateCode, validateMultipleCodes } = require('./validate');
 const getAll = require('./getAll')
+const getCountries = require('./src/getCountries');
 
 module.exports = {
   getAll: {
@@ -37,4 +38,5 @@ module.exports = {
   },
   validateCode,
   validateMultipleCodes,
+  getCountries,
 }
