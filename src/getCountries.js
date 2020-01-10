@@ -1,5 +1,3 @@
 const countries = require('../countries.json');
 
-module.exports = {
-  getCountries: countries,
-};
+module.exports = countries
