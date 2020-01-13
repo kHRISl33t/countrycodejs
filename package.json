@@ -1,6 +1,6 @@
 {
   "name": "countrycodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Country code validation",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -26,6 +26,10 @@
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kHRISl33t/countrycodejs"
   },
   "files": [
     "lib/**/*"
