@@ -14,7 +14,7 @@ const countryCode = require('countrycodejs');
 // returns all countries as an array
 countryCode.getAllCountries()
 
-// return a country in an object or null if it was founds
+// return a country in an object or null if it was not found
 countryCode.getCountry.byISOCode('HU')
 ```
 
