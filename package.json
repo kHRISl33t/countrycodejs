@@ -1,5 +1,5 @@
 {
-  "name": "countrycode.js",
+  "name": "countrycodejs",
   "version": "0.1.0",
   "description": "Country code validation",
   "main": "lib/index.js",
