@@ -16,6 +16,15 @@ countryCode.getAllCountries()
 
 // return a country in an object or null if it was not found
 countryCode.getCountry.byISOCode('HU')
+// => { code: "HU", name: "Hungary", dial_code: "+36" }
+
+// return a country in an object or null if it was not found
+countryCode.getCountry.byDialCode('+36')
+// => { code: "HU", name: "Hungary", dial_code: "+36" }
+
+// return a country in an object or null if it was not found
+countryCode.getCountry.byISOCode('Hungary')
+// => { code: "HU", name: "Hungary", dial_code: "+36" }
 ```
 
 ## Author

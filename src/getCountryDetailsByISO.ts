@@ -2,11 +2,11 @@ import countries from './countries.json';
 import { ICountry } from './types';
 
 export function byISOCode(isoCode: string): ICountry | null {
-  const searchinCountry = countries.find((country: ICountry) => country.code === isoCode);
+  const foundCountry = countries.find((country: ICountry) => country.code === isoCode);
 
-  if (!searchinCountry) {
+  if (!foundCountry) {
     return null;
   }
 
-  return searchinCountry;
+  return foundCountry;
 }
