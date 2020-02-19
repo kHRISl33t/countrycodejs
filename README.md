@@ -23,7 +23,7 @@ countryCode.getCountry.byDialCode('+36')
 // => { code: "HU", name: "Hungary", dial_code: "+36" }
 
 // return a country in an object or null if it was not found
-countryCode.getCountry.byISOCode('Hungary')
+countryCode.getCountry.byName('Hungary')
 // => { code: "HU", name: "Hungary", dial_code: "+36" }
 ```
 
