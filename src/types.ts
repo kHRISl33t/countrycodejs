@@ -1,5 +1,7 @@
 export interface ICountry {
-  code: string;
-  name: string;
-  dial_code: string;
+timezones: string[]; 
+latlng: number[];
+name: string, 
+country_code: string, 
+capital: string
 }
