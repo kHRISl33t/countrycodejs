@@ -1,6 +1,6 @@
 import countries from './countries.json';
-import { ICountry } from './types';
+import { Country } from './types';
 
-export function getAllCountries(): ICountry[] {
-  return countries;
-}
+export const getAllCountries = (): Country[] => {
+  return countries as Country[];
+};

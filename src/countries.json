@@ -1,1232 +1,3375 @@
 [
   {
+    "name": "Aruba",
+    "dial_code": "+297",
+    "code": "AW",
+    "timezones": [
+      "America/Aruba"
+    ],
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "capital": "Oranjestad"
+  },
+  {
     "name": "Afghanistan",
     "dial_code": "+93",
-    "code": "AF"
-  },
-  {
-    "name": "Åland Islands",
-    "dial_code": "+358",
-    "code": "AX"
-  },
-  {
-    "name": "Albania",
-    "dial_code": "+355",
-    "code": "AL"
-  },
-  {
-    "name": "Algeria",
-    "dial_code": "+213",
-    "code": "DZ"
-  },
-  {
-    "name": "American Samoa",
-    "dial_code": "+1684",
-    "code": "AS"
-  },
-  {
-    "name": "Andorra",
-    "dial_code": "+376",
-    "code": "AD"
+    "code": "AF",
+    "timezones": [
+      "Asia/Kabul"
+    ],
+    "latlng": [
+      33,
+      65
+    ],
+    "capital": "Kabul"
   },
   {
     "name": "Angola",
     "dial_code": "+244",
-    "code": "AO"
+    "code": "AO",
+    "timezones": [
+      "Africa/Luanda"
+    ],
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "capital": "Luanda"
   },
   {
     "name": "Anguilla",
     "dial_code": "+1264",
-    "code": "AI"
-  },
-  {
-    "name": "Antarctica",
-    "dial_code": "+672",
-    "code": "AQ"
-  },
-  {
-    "name": "Antigua and Barbuda",
-    "dial_code": "+1268",
-    "code": "AG"
-  },
-  {
-    "name": "Argentina",
-    "dial_code": "+54",
-    "code": "AR"
-  },
-  {
-    "name": "Armenia",
-    "dial_code": "+374",
-    "code": "AM"
-  },
-  {
-    "name": "Aruba",
-    "dial_code": "+297",
-    "code": "AW"
-  },
-  {
-    "name": "Australia",
-    "dial_code": "+61",
-    "code": "AU"
-  },
-  {
-    "name": "Austria",
-    "dial_code": "+43",
-    "code": "AT"
-  },
-  {
-    "name": "Azerbaijan",
-    "dial_code": "+994",
-    "code": "AZ"
-  },
-  {
-    "name": "Bahamas",
-    "dial_code": "+1242",
-    "code": "BS"
-  },
-  {
-    "name": "Bahrain",
-    "dial_code": "+973",
-    "code": "BH"
-  },
-  {
-    "name": "Bangladesh",
-    "dial_code": "+880",
-    "code": "BD"
-  },
-  {
-    "name": "Barbados",
-    "dial_code": "+1246",
-    "code": "BB"
-  },
-  {
-    "name": "Belarus",
-    "dial_code": "+375",
-    "code": "BY"
-  },
-  {
-    "name": "Belgium",
-    "dial_code": "+32",
-    "code": "BE"
-  },
-  {
-    "name": "Belize",
-    "dial_code": "+501",
-    "code": "BZ"
-  },
-  {
-    "name": "Benin",
-    "dial_code": "+229",
-    "code": "BJ"
-  },
-  {
-    "name": "Bermuda",
-    "dial_code": "+1441",
-    "code": "BM"
-  },
-  {
-    "name": "Bhutan",
-    "dial_code": "+975",
-    "code": "BT"
-  },
-  {
-    "name": "Bolivia, Plurinational State of bolivia",
-    "dial_code": "+591",
-    "code": "BO"
-  },
-  {
-    "name": "Bosnia and Herzegovina",
-    "dial_code": "+387",
-    "code": "BA"
-  },
-  {
-    "name": "Botswana",
-    "dial_code": "+267",
-    "code": "BW"
-  },
-  {
-    "name": "Bouvet Island",
-    "dial_code": "+47",
-    "code": "BV"
-  },
-  {
-    "name": "Brazil",
-    "dial_code": "+55",
-    "code": "BR"
-  },
-  {
-    "name": "British Indian Ocean Territory",
-    "dial_code": "+246",
-    "code": "IO"
-  },
-  {
-    "name": "Brunei Darussalam",
-    "dial_code": "+673",
-    "code": "BN"
-  },
-  {
-    "name": "Bulgaria",
-    "dial_code": "+359",
-    "code": "BG"
-  },
-  {
-    "name": "Burkina Faso",
-    "dial_code": "+226",
-    "code": "BF"
-  },
-  {
-    "name": "Burundi",
-    "dial_code": "+257",
-    "code": "BI"
-  },
-  {
-    "name": "Cambodia",
-    "dial_code": "+855",
-    "code": "KH"
-  },
-  {
-    "name": "Cameroon",
-    "dial_code": "+237",
-    "code": "CM"
-  },
-  {
-    "name": "Canada",
-    "dial_code": "+1",
-    "code": "CA"
-  },
-  {
-    "name": "Cape Verde",
-    "dial_code": "+238",
-    "code": "CV"
-  },
-  {
-    "name": "Cayman Islands",
-    "dial_code": "+ 345",
-    "code": "KY"
-  },
-  {
-    "name": "Central African Republic",
-    "dial_code": "+236",
-    "code": "CF"
-  },
-  {
-    "name": "Chad",
-    "dial_code": "+235",
-    "code": "TD"
-  },
-  {
-    "name": "Chile",
-    "dial_code": "+56",
-    "code": "CL"
-  },
-  {
-    "name": "China",
-    "dial_code": "+86",
-    "code": "CN"
-  },
-  {
-    "name": "Christmas Island",
-    "dial_code": "+61",
-    "code": "CX"
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "dial_code": "+61",
-    "code": "CC"
-  },
-  {
-    "name": "Colombia",
-    "dial_code": "+57",
-    "code": "CO"
-  },
-  {
-    "name": "Comoros",
-    "dial_code": "+269",
-    "code": "KM"
-  },
-  {
-    "name": "Congo",
-    "dial_code": "+242",
-    "code": "CG"
-  },
-  {
-    "name": "Congo, The Democratic Republic of the Congo",
-    "dial_code": "+243",
-    "code": "CD"
-  },
-  {
-    "name": "Cook Islands",
-    "dial_code": "+682",
-    "code": "CK"
-  },
-  {
-    "name": "Costa Rica",
-    "dial_code": "+506",
-    "code": "CR"
-  },
-  {
-    "name": "Cote d'Ivoire",
-    "dial_code": "+225",
-    "code": "CI"
-  },
-  {
-    "name": "Croatia",
-    "dial_code": "+385",
-    "code": "HR"
-  },
-  {
-    "name": "Cuba",
-    "dial_code": "+53",
-    "code": "CU"
-  },
-  {
-    "name": "Cyprus",
-    "dial_code": "+357",
-    "code": "CY"
-  },
-  {
-    "name": "Czech Republic",
-    "dial_code": "+420",
-    "code": "CZ"
-  },
-  {
-    "name": "Denmark",
-    "dial_code": "+45",
-    "code": "DK"
-  },
-  {
-    "name": "Djibouti",
-    "dial_code": "+253",
-    "code": "DJ"
-  },
-  {
-    "name": "Dominica",
-    "dial_code": "+1767",
-    "code": "DM"
-  },
-  {
-    "name": "Dominican Republic",
-    "dial_code": "+1849",
-    "code": "DO"
-  },
-  {
-    "name": "Ecuador",
-    "dial_code": "+593",
-    "code": "EC"
-  },
-  {
-    "name": "Egypt",
-    "dial_code": "+20",
-    "code": "EG"
-  },
-  {
-    "name": "El Salvador",
-    "dial_code": "+503",
-    "code": "SV"
-  },
-  {
-    "name": "Equatorial Guinea",
-    "dial_code": "+240",
-    "code": "GQ"
-  },
-  {
-    "name": "Eritrea",
-    "dial_code": "+291",
-    "code": "ER"
-  },
-  {
-    "name": "Estonia",
-    "dial_code": "+372",
-    "code": "EE"
-  },
-  {
-    "name": "Ethiopia",
-    "dial_code": "+251",
-    "code": "ET"
-  },
-  {
-    "name": "Falkland Islands (Malvinas)",
-    "dial_code": "+500",
-    "code": "FK"
-  },
-  {
-    "name": "Faroe Islands",
-    "dial_code": "+298",
-    "code": "FO"
-  },
-  {
-    "name": "Fiji",
-    "dial_code": "+679",
-    "code": "FJ"
-  },
-  {
-    "name": "Finland",
+    "code": "AI",
+    "timezones": [
+      "America/Anguilla"
+    ],
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "capital": "The Valley"
+  },
+  {
+    "name": "Åland Islands",
     "dial_code": "+358",
-    "code": "FI"
-  },
-  {
-    "name": "France",
-    "dial_code": "+33",
-    "code": "FR"
-  },
-  {
-    "name": "French Guiana",
-    "dial_code": "+594",
-    "code": "GF"
-  },
-  {
-    "name": "French Polynesia",
-    "dial_code": "+689",
-    "code": "PF"
-  },
-  {
-    "name": "French Southern Territories",
-    "dial_code": "+262",
-    "code": "TF"
-  },
-  {
-    "name": "Gabon",
-    "dial_code": "+241",
-    "code": "GA"
-  },
-  {
-    "name": "Gambia",
-    "dial_code": "+220",
-    "code": "GM"
-  },
-  {
-    "name": "Georgia",
-    "dial_code": "+995",
-    "code": "GE"
-  },
-  {
-    "name": "Germany",
-    "dial_code": "+49",
-    "code": "DE"
-  },
-  {
-    "name": "Ghana",
-    "dial_code": "+233",
-    "code": "GH"
-  },
-  {
-    "name": "Gibraltar",
-    "dial_code": "+350",
-    "code": "GI"
-  },
-  {
-    "name": "Greece",
-    "dial_code": "+30",
-    "code": "GR"
-  },
-  {
-    "name": "Greenland",
-    "dial_code": "+299",
-    "code": "GL"
-  },
-  {
-    "name": "Grenada",
-    "dial_code": "+1473",
-    "code": "GD"
-  },
-  {
-    "name": "Guadeloupe",
-    "dial_code": "+590",
-    "code": "GP"
-  },
-  {
-    "name": "Guam",
-    "dial_code": "+1671",
-    "code": "GU"
-  },
-  {
-    "name": "Guatemala",
-    "dial_code": "+502",
-    "code": "GT"
-  },
-  {
-    "name": "Guernsey",
-    "dial_code": "+44",
-    "code": "GG"
-  },
-  {
-    "name": "Guinea",
-    "dial_code": "+224",
-    "code": "GN"
-  },
-  {
-    "name": "Guinea-Bissau",
-    "dial_code": "+245",
-    "code": "GW"
-  },
-  {
-    "name": "Guyana",
-    "dial_code": "+592",
-    "code": "GY"
-  },
-  {
-    "name": "Haiti",
-    "dial_code": "+509",
-    "code": "HT"
-  },
-  {
-    "name": "Heard Island and Mcdonald Islands",
-    "dial_code": "+0",
-    "code": "HM"
-  },
-  {
-    "name": "Holy See (Vatican City State)",
-    "dial_code": "+379",
-    "code": "VA"
-  },
-  {
-    "name": "Honduras",
-    "dial_code": "+504",
-    "code": "HN"
-  },
-  {
-    "name": "Hong Kong",
-    "dial_code": "+852",
-    "code": "HK"
-  },
-  {
-    "name": "Hungary",
-    "dial_code": "+36",
-    "code": "HU"
-  },
-  {
-    "name": "Iceland",
-    "dial_code": "+354",
-    "code": "IS"
-  },
-  {
-    "name": "India",
-    "dial_code": "+91",
-    "code": "IN"
-  },
-  {
-    "name": "Indonesia",
-    "dial_code": "+62",
-    "code": "ID"
-  },
-  {
-    "name": "Iran, Islamic Republic of Persian Gulf",
-    "dial_code": "+98",
-    "code": "IR"
-  },
-  {
-    "name": "Iraq",
-    "dial_code": "+964",
-    "code": "IQ"
-  },
-  {
-    "name": "Ireland",
-    "dial_code": "+353",
-    "code": "IE"
-  },
-  {
-    "name": "Isle of Man",
-    "dial_code": "+44",
-    "code": "IM"
-  },
-  {
-    "name": "Israel",
-    "dial_code": "+972",
-    "code": "IL"
-  },
-  {
-    "name": "Italy",
-    "dial_code": "+39",
-    "code": "IT"
-  },
-  {
-    "name": "Jamaica",
-    "dial_code": "+1876",
-    "code": "JM"
-  },
-  {
-    "name": "Japan",
-    "dial_code": "+81",
-    "code": "JP"
-  },
-  {
-    "name": "Jersey",
-    "dial_code": "+44",
-    "code": "JE"
-  },
-  {
-    "name": "Jordan",
-    "dial_code": "+962",
-    "code": "JO"
-  },
-  {
-    "name": "Kazakhstan",
-    "dial_code": "+7",
-    "code": "KZ"
-  },
-  {
-    "name": "Kenya",
-    "dial_code": "+254",
-    "code": "KE"
-  },
-  {
-    "name": "Kiribati",
-    "dial_code": "+686",
-    "code": "KI"
-  },
-  {
-    "name": "Korea, Democratic People's Republic of Korea",
-    "dial_code": "+850",
-    "code": "KP"
-  },
-  {
-    "name": "Korea, Republic of South Korea",
-    "dial_code": "+82",
-    "code": "KR"
-  },
-  {
-    "name": "Kosovo",
-    "dial_code": "+383",
-    "code": "XK"
-  },
-  {
-    "name": "Kuwait",
-    "dial_code": "+965",
-    "code": "KW"
-  },
-  {
-    "name": "Kyrgyzstan",
-    "dial_code": "+996",
-    "code": "KG"
-  },
-  {
-    "name": "Laos",
-    "dial_code": "+856",
-    "code": "LA"
-  },
-  {
-    "name": "Latvia",
-    "dial_code": "+371",
-    "code": "LV"
-  },
-  {
-    "name": "Lebanon",
-    "dial_code": "+961",
-    "code": "LB"
-  },
-  {
-    "name": "Lesotho",
-    "dial_code": "+266",
-    "code": "LS"
-  },
-  {
-    "name": "Liberia",
-    "dial_code": "+231",
-    "code": "LR"
-  },
-  {
-    "name": "Libyan Arab Jamahiriya",
-    "dial_code": "+218",
-    "code": "LY"
-  },
-  {
-    "name": "Liechtenstein",
-    "dial_code": "+423",
-    "code": "LI"
-  },
-  {
-    "name": "Lithuania",
-    "dial_code": "+370",
-    "code": "LT"
-  },
-  {
-    "name": "Luxembourg",
-    "dial_code": "+352",
-    "code": "LU"
-  },
-  {
-    "name": "Macao",
-    "dial_code": "+853",
-    "code": "MO"
-  },
-  {
-    "name": "Macedonia",
-    "dial_code": "+389",
-    "code": "MK"
-  },
-  {
-    "name": "Madagascar",
-    "dial_code": "+261",
-    "code": "MG"
-  },
-  {
-    "name": "Malawi",
-    "dial_code": "+265",
-    "code": "MW"
-  },
-  {
-    "name": "Malaysia",
-    "dial_code": "+60",
-    "code": "MY"
-  },
-  {
-    "name": "Maldives",
-    "dial_code": "+960",
-    "code": "MV"
-  },
-  {
-    "name": "Mali",
-    "dial_code": "+223",
-    "code": "ML"
-  },
-  {
-    "name": "Malta",
-    "dial_code": "+356",
-    "code": "MT"
-  },
-  {
-    "name": "Marshall Islands",
-    "dial_code": "+692",
-    "code": "MH"
-  },
-  {
-    "name": "Martinique",
-    "dial_code": "+596",
-    "code": "MQ"
-  },
-  {
-    "name": "Mauritania",
-    "dial_code": "+222",
-    "code": "MR"
-  },
-  {
-    "name": "Mauritius",
-    "dial_code": "+230",
-    "code": "MU"
-  },
-  {
-    "name": "Mayotte",
-    "dial_code": "+262",
-    "code": "YT"
-  },
-  {
-    "name": "Mexico",
-    "dial_code": "+52",
-    "code": "MX"
-  },
-  {
-    "name": "Micronesia, Federated States of Micronesia",
-    "dial_code": "+691",
-    "code": "FM"
-  },
-  {
-    "name": "Moldova",
-    "dial_code": "+373",
-    "code": "MD"
-  },
-  {
-    "name": "Monaco",
-    "dial_code": "+377",
-    "code": "MC"
-  },
-  {
-    "name": "Mongolia",
-    "dial_code": "+976",
-    "code": "MN"
-  },
-  {
-    "name": "Montenegro",
-    "dial_code": "+382",
-    "code": "ME"
-  },
-  {
-    "name": "Montserrat",
-    "dial_code": "+1664",
-    "code": "MS"
-  },
-  {
-    "name": "Morocco",
-    "dial_code": "+212",
-    "code": "MA"
-  },
-  {
-    "name": "Mozambique",
-    "dial_code": "+258",
-    "code": "MZ"
-  },
-  {
-    "name": "Myanmar",
-    "dial_code": "+95",
-    "code": "MM"
-  },
-  {
-    "name": "Namibia",
-    "dial_code": "+264",
-    "code": "NA"
-  },
-  {
-    "name": "Nauru",
-    "dial_code": "+674",
-    "code": "NR"
-  },
-  {
-    "name": "Nepal",
-    "dial_code": "+977",
-    "code": "NP"
-  },
-  {
-    "name": "Netherlands",
-    "dial_code": "+31",
-    "code": "NL"
-  },
-  {
-    "name": "Netherlands Antilles",
-    "dial_code": "+599",
-    "code": "AN"
-  },
-  {
-    "name": "New Caledonia",
-    "dial_code": "+687",
-    "code": "NC"
-  },
-  {
-    "name": "New Zealand",
-    "dial_code": "+64",
-    "code": "NZ"
-  },
-  {
-    "name": "Nicaragua",
-    "dial_code": "+505",
-    "code": "NI"
-  },
-  {
-    "name": "Niger",
-    "dial_code": "+227",
-    "code": "NE"
-  },
-  {
-    "name": "Nigeria",
-    "dial_code": "+234",
-    "code": "NG"
-  },
-  {
-    "name": "Niue",
-    "dial_code": "+683",
-    "code": "NU"
-  },
-  {
-    "name": "Norfolk Island",
-    "dial_code": "+672",
-    "code": "NF"
-  },
-  {
-    "name": "Northern Mariana Islands",
-    "dial_code": "+1670",
-    "code": "MP"
-  },
-  {
-    "name": "Norway",
-    "dial_code": "+47",
-    "code": "NO"
-  },
-  {
-    "name": "Oman",
-    "dial_code": "+968",
-    "code": "OM"
-  },
-  {
-    "name": "Pakistan",
-    "dial_code": "+92",
-    "code": "PK"
-  },
-  {
-    "name": "Palau",
-    "dial_code": "+680",
-    "code": "PW"
-  },
-  {
-    "name": "Palestinian Territory, Occupied",
-    "dial_code": "+970",
-    "code": "PS"
-  },
-  {
-    "name": "Panama",
-    "dial_code": "+507",
-    "code": "PA"
-  },
-  {
-    "name": "Papua New Guinea",
-    "dial_code": "+675",
-    "code": "PG"
-  },
-  {
-    "name": "Paraguay",
-    "dial_code": "+595",
-    "code": "PY"
-  },
-  {
-    "name": "Peru",
-    "dial_code": "+51",
-    "code": "PE"
-  },
-  {
-    "name": "Philippines",
-    "dial_code": "+63",
-    "code": "PH"
-  },
-  {
-    "name": "Pitcairn",
-    "dial_code": "+64",
-    "code": "PN"
-  },
-  {
-    "name": "Poland",
-    "dial_code": "+48",
-    "code": "PL"
-  },
-  {
-    "name": "Portugal",
-    "dial_code": "+351",
-    "code": "PT"
-  },
-  {
-    "name": "Puerto Rico",
-    "dial_code": "+1939",
-    "code": "PR"
-  },
-  {
-    "name": "Qatar",
-    "dial_code": "+974",
-    "code": "QA"
-  },
-  {
-    "name": "Romania",
-    "dial_code": "+40",
-    "code": "RO"
-  },
-  {
-    "name": "Russia",
-    "dial_code": "+7",
-    "code": "RU"
-  },
-  {
-    "name": "Rwanda",
-    "dial_code": "+250",
-    "code": "RW"
-  },
-  {
-    "name": "Reunion",
-    "dial_code": "+262",
-    "code": "RE"
-  },
-  {
-    "name": "Saint Barthelemy",
-    "dial_code": "+590",
-    "code": "BL"
-  },
-  {
-    "name": "Saint Helena, Ascension and Tristan Da Cunha",
-    "dial_code": "+290",
-    "code": "SH"
-  },
-  {
-    "name": "Saint Kitts and Nevis",
-    "dial_code": "+1869",
-    "code": "KN"
-  },
-  {
-    "name": "Saint Lucia",
-    "dial_code": "+1758",
-    "code": "LC"
-  },
-  {
-    "name": "Saint Martin",
-    "dial_code": "+590",
-    "code": "MF"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "dial_code": "+508",
-    "code": "PM"
-  },
-  {
-    "name": "Saint Vincent and the Grenadines",
-    "dial_code": "+1784",
-    "code": "VC"
-  },
-  {
-    "name": "Samoa",
-    "dial_code": "+685",
-    "code": "WS"
-  },
-  {
-    "name": "San Marino",
-    "dial_code": "+378",
-    "code": "SM"
-  },
-  {
-    "name": "Sao Tome and Principe",
-    "dial_code": "+239",
-    "code": "ST"
-  },
-  {
-    "name": "Saudi Arabia",
-    "dial_code": "+966",
-    "code": "SA"
-  },
-  {
-    "name": "Senegal",
-    "dial_code": "+221",
-    "code": "SN"
-  },
-  {
-    "name": "Serbia",
-    "dial_code": "+381",
-    "code": "RS"
-  },
-  {
-    "name": "Seychelles",
-    "dial_code": "+248",
-    "code": "SC"
-  },
-  {
-    "name": "Sierra Leone",
-    "dial_code": "+232",
-    "code": "SL"
-  },
-  {
-    "name": "Singapore",
-    "dial_code": "+65",
-    "code": "SG"
-  },
-  {
-    "name": "Slovakia",
-    "dial_code": "+421",
-    "code": "SK"
-  },
-  {
-    "name": "Slovenia",
-    "dial_code": "+386",
-    "code": "SI"
-  },
-  {
-    "name": "Solomon Islands",
-    "dial_code": "+677",
-    "code": "SB"
-  },
-  {
-    "name": "Somalia",
-    "dial_code": "+252",
-    "code": "SO"
-  },
-  {
-    "name": "South Africa",
-    "dial_code": "+27",
-    "code": "ZA"
-  },
-  {
-    "name": "South Sudan",
-    "dial_code": "+211",
-    "code": "SS"
-  },
-  {
-    "name": "South Georgia and the South Sandwich Islands",
-    "dial_code": "+500",
-    "code": "GS"
-  },
-  {
-    "name": "Spain",
-    "dial_code": "+34",
-    "code": "ES"
-  },
-  {
-    "name": "Sri Lanka",
-    "dial_code": "+94",
-    "code": "LK"
-  },
-  {
-    "name": "Sudan",
-    "dial_code": "+249",
-    "code": "SD"
-  },
-  {
-    "name": "Suriname",
-    "dial_code": "+597",
-    "code": "SR"
-  },
-  {
-    "name": "Svalbard and Jan Mayen",
-    "dial_code": "+47",
-    "code": "SJ"
-  },
-  {
-    "name": "Swaziland",
-    "dial_code": "+268",
-    "code": "SZ"
-  },
-  {
-    "name": "Sweden",
-    "dial_code": "+46",
-    "code": "SE"
-  },
-  {
-    "name": "Switzerland",
-    "dial_code": "+41",
-    "code": "CH"
-  },
-  {
-    "name": "Syrian Arab Republic",
-    "dial_code": "+963",
-    "code": "SY"
-  },
-  {
-    "name": "Taiwan",
-    "dial_code": "+886",
-    "code": "TW"
-  },
-  {
-    "name": "Tajikistan",
-    "dial_code": "+992",
-    "code": "TJ"
-  },
-  {
-    "name": "Tanzania, United Republic of Tanzania",
-    "dial_code": "+255",
-    "code": "TZ"
-  },
-  {
-    "name": "Thailand",
-    "dial_code": "+66",
-    "code": "TH"
-  },
-  {
-    "name": "Timor-Leste",
-    "dial_code": "+670",
-    "code": "TL"
-  },
-  {
-    "name": "Togo",
-    "dial_code": "+228",
-    "code": "TG"
-  },
-  {
-    "name": "Tokelau",
-    "dial_code": "+690",
-    "code": "TK"
-  },
-  {
-    "name": "Tonga",
-    "dial_code": "+676",
-    "code": "TO"
-  },
-  {
-    "name": "Trinidad and Tobago",
-    "dial_code": "+1868",
-    "code": "TT"
-  },
-  {
-    "name": "Tunisia",
-    "dial_code": "+216",
-    "code": "TN"
-  },
-  {
-    "name": "Turkey",
-    "dial_code": "+90",
-    "code": "TR"
-  },
-  {
-    "name": "Turkmenistan",
-    "dial_code": "+993",
-    "code": "TM"
-  },
-  {
-    "name": "Turks and Caicos Islands",
-    "dial_code": "+1649",
-    "code": "TC"
-  },
-  {
-    "name": "Tuvalu",
-    "dial_code": "+688",
-    "code": "TV"
-  },
-  {
-    "name": "Uganda",
-    "dial_code": "+256",
-    "code": "UG"
-  },
-  {
-    "name": "Ukraine",
-    "dial_code": "+380",
-    "code": "UA"
+    "code": "AX",
+    "timezones": [
+      "Europe/Mariehamn"
+    ],
+    "latlng": [
+      60.116667,
+      19.9
+    ],
+    "capital": "Mariehamn"
+  },
+  {
+    "name": "Albania",
+    "dial_code": "+355",
+    "code": "AL",
+    "timezones": [
+      "Europe/Tirane"
+    ],
+    "latlng": [
+      41,
+      20
+    ],
+    "capital": "Tirana"
+  },
+  {
+    "name": "Andorra",
+    "dial_code": "+376",
+    "code": "AD",
+    "timezones": [
+      "Europe/Andorra"
+    ],
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "capital": "Andorra la Vella"
   },
   {
     "name": "United Arab Emirates",
     "dial_code": "+971",
-    "code": "AE"
+    "code": "AE",
+    "timezones": [
+      "Asia/Dubai"
+    ],
+    "latlng": [
+      24,
+      54
+    ],
+    "capital": "Abu Dhabi"
+  },
+  {
+    "name": "Argentina",
+    "dial_code": "+54",
+    "code": "AR",
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ],
+    "latlng": [
+      -34,
+      -64
+    ],
+    "capital": "Buenos Aires"
+  },
+  {
+    "name": "Armenia",
+    "dial_code": "+374",
+    "code": "AM",
+    "timezones": [
+      "Asia/Yerevan"
+    ],
+    "latlng": [
+      40,
+      45
+    ],
+    "capital": "Yerevan"
+  },
+  {
+    "name": "American Samoa",
+    "dial_code": "+1684",
+    "code": "AS",
+    "timezones": [
+      "Pacific/Pago_Pago"
+    ],
+    "latlng": [
+      -14.33333333,
+      -170
+    ],
+    "capital": "Pago Pago"
+  },
+  {
+    "name": "Antarctica",
+    "dial_code": "+672",
+    "code": "AQ",
+    "timezones": [
+      "Antarctica/McMurdo",
+      "Antarctica/Casey",
+      "Antarctica/Davis",
+      "Antarctica/DumontDUrville",
+      "Antarctica/Mawson",
+      "Antarctica/Palmer",
+      "Antarctica/Rothera",
+      "Antarctica/Syowa",
+      "Antarctica/Troll",
+      "Antarctica/Vostok"
+    ],
+    "latlng": [
+      -90,
+      0
+    ],
+    "capital": null
+  },
+  {
+    "name": "French Southern Territories",
+    "dial_code": "+262",
+    "code": "TF",
+    "timezones": [
+      "Indian/Kerguelen"
+    ],
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "capital": "Port-aux-Français"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "dial_code": "+1268",
+    "code": "AG",
+    "timezones": [
+      "America/Antigua"
+    ],
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "capital": "Saint John's"
+  },
+  {
+    "name": "Australia",
+    "dial_code": "+61",
+    "code": "AU",
+    "timezones": [
+      "Australia/Lord_Howe",
+      "Antarctica/Macquarie",
+      "Australia/Hobart",
+      "Australia/Currie",
+      "Australia/Melbourne",
+      "Australia/Sydney",
+      "Australia/Broken_Hill",
+      "Australia/Brisbane",
+      "Australia/Lindeman",
+      "Australia/Adelaide",
+      "Australia/Darwin",
+      "Australia/Perth",
+      "Australia/Eucla"
+    ],
+    "latlng": [
+      -27,
+      133
+    ],
+    "capital": "Canberra"
+  },
+  {
+    "name": "Austria",
+    "dial_code": "+43",
+    "code": "AT",
+    "timezones": [
+      "Europe/Vienna"
+    ],
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "capital": "Vienna"
+  },
+  {
+    "name": "Azerbaijan",
+    "dial_code": "+994",
+    "code": "AZ",
+    "timezones": [
+      "Asia/Baku"
+    ],
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "capital": "Baku"
+  },
+  {
+    "name": "Burundi",
+    "dial_code": "+257",
+    "code": "BI",
+    "timezones": [
+      "Africa/Bujumbura"
+    ],
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "capital": "Bujumbura"
+  },
+  {
+    "name": "Belgium",
+    "dial_code": "+32",
+    "code": "BE",
+    "timezones": [
+      "Europe/Brussels"
+    ],
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "capital": "Brussels"
+  },
+  {
+    "name": "Benin",
+    "dial_code": "+229",
+    "code": "BJ",
+    "timezones": [
+      "Africa/Porto-Novo"
+    ],
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "capital": "Porto-Novo"
+  },
+  {
+    "name": "Burkina Faso",
+    "dial_code": "+226",
+    "code": "BF",
+    "timezones": [
+      "Africa/Ouagadougou"
+    ],
+    "latlng": [
+      13,
+      -2
+    ],
+    "capital": "Ouagadougou"
+  },
+  {
+    "name": "Bangladesh",
+    "dial_code": "+880",
+    "code": "BD",
+    "timezones": [
+      "Asia/Dhaka"
+    ],
+    "latlng": [
+      24,
+      90
+    ],
+    "capital": "Dhaka"
+  },
+  {
+    "name": "Bulgaria",
+    "dial_code": "+359",
+    "code": "BG",
+    "timezones": [
+      "Europe/Sofia"
+    ],
+    "latlng": [
+      43,
+      25
+    ],
+    "capital": "Sofia"
+  },
+  {
+    "name": "Bahrain",
+    "dial_code": "+973",
+    "code": "BH",
+    "timezones": [
+      "Asia/Bahrain"
+    ],
+    "latlng": [
+      26,
+      50.55
+    ],
+    "capital": "Manama"
+  },
+  {
+    "name": "Bahamas",
+    "dial_code": "+1242",
+    "code": "BS",
+    "timezones": [
+      "America/Nassau"
+    ],
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "capital": "Nassau"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "dial_code": "+387",
+    "code": "BA",
+    "timezones": [
+      "Europe/Sarajevo"
+    ],
+    "latlng": [
+      44,
+      18
+    ],
+    "capital": "Sarajevo"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "dial_code": "+590",
+    "code": "BL",
+    "timezones": [
+      "America/St_Barthelemy"
+    ],
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "capital": "Gustavia"
+  },
+  {
+    "name": "Belarus",
+    "dial_code": "+375",
+    "code": "BY",
+    "timezones": [
+      "Europe/Minsk"
+    ],
+    "latlng": [
+      53,
+      28
+    ],
+    "capital": "Minsk"
+  },
+  {
+    "name": "Belize",
+    "dial_code": "+501",
+    "code": "BZ",
+    "timezones": [
+      "America/Belize"
+    ],
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "capital": "Belmopan"
+  },
+  {
+    "name": "Bermuda",
+    "dial_code": "+1441",
+    "code": "BM",
+    "timezones": [
+      "Atlantic/Bermuda"
+    ],
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "capital": "Hamilton"
+  },
+  {
+    "name": "Bolivia, Plurinational State of bolivia",
+    "dial_code": "+591",
+    "code": "BO",
+    "timezones": [
+      "America/La_Paz"
+    ],
+    "latlng": [
+      -17,
+      -65
+    ],
+    "capital": "Sucre"
+  },
+  {
+    "name": "Brazil",
+    "dial_code": "+55",
+    "code": "BR",
+    "timezones": [
+      "America/Noronha",
+      "America/Belem",
+      "America/Fortaleza",
+      "America/Recife",
+      "America/Araguaina",
+      "America/Maceio",
+      "America/Bahia",
+      "America/Sao_Paulo",
+      "America/Campo_Grande",
+      "America/Cuiaba",
+      "America/Santarem",
+      "America/Porto_Velho",
+      "America/Boa_Vista",
+      "America/Manaus",
+      "America/Eirunepe",
+      "America/Rio_Branco"
+    ],
+    "latlng": [
+      -10,
+      -55
+    ],
+    "capital": "Brasília"
+  },
+  {
+    "name": "Barbados",
+    "dial_code": "+1246",
+    "code": "BB",
+    "timezones": [
+      "America/Barbados"
+    ],
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "capital": "Bridgetown"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "dial_code": "+673",
+    "code": "BN",
+    "timezones": [
+      "Asia/Brunei"
+    ],
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "capital": "Bandar Seri Begawan"
+  },
+  {
+    "name": "Bhutan",
+    "dial_code": "+975",
+    "code": "BT",
+    "timezones": [
+      "Asia/Thimphu"
+    ],
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "capital": "Thimphu"
+  },
+  {
+    "name": "Bouvet Island",
+    "dial_code": "+47",
+    "code": "BV",
+    "timezones": [
+      "Europe/Oslo"
+    ],
+    "latlng": [
+      -54.43333333,
+      3.4
+    ],
+    "capital": null
+  },
+  {
+    "name": "Botswana",
+    "dial_code": "+267",
+    "code": "BW",
+    "timezones": [
+      "Africa/Gaborone"
+    ],
+    "latlng": [
+      -22,
+      24
+    ],
+    "capital": "Gaborone"
+  },
+  {
+    "name": "Central African Republic",
+    "dial_code": "+236",
+    "code": "CF",
+    "timezones": [
+      "Africa/Bangui"
+    ],
+    "latlng": [
+      7,
+      21
+    ],
+    "capital": "Bangui"
+  },
+  {
+    "name": "Canada",
+    "dial_code": "+1",
+    "code": "CA",
+    "timezones": [
+      "America/St_Johns",
+      "America/Halifax",
+      "America/Glace_Bay",
+      "America/Moncton",
+      "America/Goose_Bay",
+      "America/Blanc-Sablon",
+      "America/Toronto",
+      "America/Nipigon",
+      "America/Thunder_Bay",
+      "America/Iqaluit",
+      "America/Pangnirtung",
+      "America/Atikokan",
+      "America/Winnipeg",
+      "America/Rainy_River",
+      "America/Resolute",
+      "America/Rankin_Inlet",
+      "America/Regina",
+      "America/Swift_Current",
+      "America/Edmonton",
+      "America/Cambridge_Bay",
+      "America/Yellowknife",
+      "America/Inuvik",
+      "America/Creston",
+      "America/Dawson_Creek",
+      "America/Fort_Nelson",
+      "America/Vancouver",
+      "America/Whitehorse",
+      "America/Dawson"
+    ],
+    "latlng": [
+      60,
+      -95
+    ],
+    "capital": "Ottawa"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "dial_code": "+61",
+    "code": "CC",
+    "timezones": [
+      "Indian/Cocos"
+    ],
+    "latlng": [
+      -12.5,
+      96.83333333
+    ],
+    "capital": "West Island"
+  },
+  {
+    "name": "Switzerland",
+    "dial_code": "+41",
+    "code": "CH",
+    "timezones": [
+      "Europe/Zurich"
+    ],
+    "latlng": [
+      47,
+      8
+    ],
+    "capital": "Bern"
+  },
+  {
+    "name": "Chile",
+    "dial_code": "+56",
+    "code": "CL",
+    "timezones": [
+      "America/Santiago",
+      "Pacific/Easter"
+    ],
+    "latlng": [
+      -30,
+      -71
+    ],
+    "capital": "Santiago"
+  },
+  {
+    "name": "China",
+    "dial_code": "+86",
+    "code": "CN",
+    "timezones": [
+      "Asia/Shanghai",
+      "Asia/Urumqi"
+    ],
+    "latlng": [
+      35,
+      105
+    ],
+    "capital": "Beijing"
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "dial_code": "+225",
+    "code": "CI",
+    "timezones": [
+      "Africa/Abidjan"
+    ],
+    "latlng": [
+      8,
+      -5
+    ],
+    "capital": "Yamoussoukro"
+  },
+  {
+    "name": "Cameroon",
+    "dial_code": "+237",
+    "code": "CM",
+    "timezones": [
+      "Africa/Douala"
+    ],
+    "latlng": [
+      6,
+      12
+    ],
+    "capital": "Yaoundé"
+  },
+  {
+    "name": "Congo, The Democratic Republic of the Congo",
+    "dial_code": "+243",
+    "code": "CD",
+    "timezones": [
+      "Africa/Kinshasa",
+      "Africa/Lubumbashi"
+    ],
+    "latlng": [
+      0,
+      25
+    ],
+    "capital": "Kinshasa"
+  },
+  {
+    "name": "Congo",
+    "dial_code": "+242",
+    "code": "CG",
+    "timezones": [
+      "Africa/Brazzaville"
+    ],
+    "latlng": [
+      -1,
+      15
+    ],
+    "capital": "Brazzaville"
+  },
+  {
+    "name": "Cook Islands",
+    "dial_code": "+682",
+    "code": "CK",
+    "timezones": [
+      "Pacific/Rarotonga"
+    ],
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "capital": "Avarua"
+  },
+  {
+    "name": "Colombia",
+    "dial_code": "+57",
+    "code": "CO",
+    "timezones": [
+      "America/Bogota"
+    ],
+    "latlng": [
+      4,
+      -72
+    ],
+    "capital": "Bogotá"
+  },
+  {
+    "name": "Comoros",
+    "dial_code": "+269",
+    "code": "KM",
+    "timezones": [
+      "Indian/Comoro"
+    ],
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "capital": "Moroni"
+  },
+  {
+    "name": "Cape Verde",
+    "dial_code": "+238",
+    "code": "CV",
+    "timezones": [
+      "Atlantic/Cape_Verde"
+    ],
+    "latlng": [
+      16,
+      -24
+    ],
+    "capital": "Praia"
+  },
+  {
+    "name": "Costa Rica",
+    "dial_code": "+506",
+    "code": "CR",
+    "timezones": [
+      "America/Costa_Rica"
+    ],
+    "latlng": [
+      10,
+      -84
+    ],
+    "capital": "San José"
+  },
+  {
+    "name": "Cuba",
+    "dial_code": "+53",
+    "code": "CU",
+    "timezones": [
+      "America/Havana"
+    ],
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "capital": "Havana"
+  },
+  {
+    "timezones": [
+      "America/Curacao"
+    ],
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "capital": "Willemstad"
+  },
+  {
+    "name": "Christmas Island",
+    "dial_code": "+61",
+    "code": "CX",
+    "timezones": [
+      "Indian/Christmas"
+    ],
+    "latlng": [
+      -10.5,
+      105.66666666
+    ],
+    "capital": "Flying Fish Cove"
+  },
+  {
+    "name": "Cayman Islands",
+    "dial_code": "+ 345",
+    "code": "KY",
+    "timezones": [
+      "America/Cayman"
+    ],
+    "latlng": [
+      19.5,
+      -80.5
+    ],
+    "capital": "George Town"
+  },
+  {
+    "name": "Cyprus",
+    "dial_code": "+357",
+    "code": "CY",
+    "timezones": [
+      "Asia/Nicosia"
+    ],
+    "latlng": [
+      35,
+      33
+    ],
+    "capital": "Nicosia"
+  },
+  {
+    "name": "Czech Republic",
+    "dial_code": "+420",
+    "code": "CZ",
+    "timezones": [
+      "Europe/Prague"
+    ],
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "capital": "Prague"
+  },
+  {
+    "name": "Germany",
+    "dial_code": "+49",
+    "code": "DE",
+    "timezones": [
+      "Europe/Berlin",
+      "Europe/Busingen"
+    ],
+    "latlng": [
+      51,
+      9
+    ],
+    "capital": "Berlin"
+  },
+  {
+    "name": "Djibouti",
+    "dial_code": "+253",
+    "code": "DJ",
+    "timezones": [
+      "Africa/Djibouti"
+    ],
+    "latlng": [
+      11.5,
+      43
+    ],
+    "capital": "Djibouti"
+  },
+  {
+    "name": "Dominica",
+    "dial_code": "+1767",
+    "code": "DM",
+    "timezones": [
+      "America/Dominica"
+    ],
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "capital": "Roseau"
+  },
+  {
+    "name": "Denmark",
+    "dial_code": "+45",
+    "code": "DK",
+    "timezones": [
+      "Europe/Copenhagen"
+    ],
+    "latlng": [
+      56,
+      10
+    ],
+    "capital": "Copenhagen"
+  },
+  {
+    "name": "Dominican Republic",
+    "dial_code": "+1849",
+    "code": "DO",
+    "timezones": [
+      "America/Santo_Domingo"
+    ],
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "capital": "Santo Domingo"
+  },
+  {
+    "name": "Algeria",
+    "dial_code": "+213",
+    "code": "DZ",
+    "timezones": [
+      "Africa/Algiers"
+    ],
+    "latlng": [
+      28,
+      3
+    ],
+    "capital": "Algiers"
+  },
+  {
+    "name": "Ecuador",
+    "dial_code": "+593",
+    "code": "EC",
+    "timezones": [
+      "America/Guayaquil",
+      "Pacific/Galapagos"
+    ],
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "capital": "Quito"
+  },
+  {
+    "name": "Egypt",
+    "dial_code": "+20",
+    "code": "EG",
+    "timezones": [
+      "Africa/Cairo"
+    ],
+    "latlng": [
+      27,
+      30
+    ],
+    "capital": "Cairo"
+  },
+  {
+    "name": "Eritrea",
+    "dial_code": "+291",
+    "code": "ER",
+    "timezones": [
+      "Africa/Asmara"
+    ],
+    "latlng": [
+      15,
+      39
+    ],
+    "capital": "Asmara"
+  },
+  {
+    "timezones": [
+      "Africa/El_Aaiun"
+    ],
+    "latlng": [
+      24.5,
+      -13
+    ],
+    "capital": "El Aaiún"
+  },
+  {
+    "name": "Spain",
+    "dial_code": "+34",
+    "code": "ES",
+    "timezones": [
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Atlantic/Canary"
+    ],
+    "latlng": [
+      40,
+      -4
+    ],
+    "capital": "Madrid"
+  },
+  {
+    "name": "Estonia",
+    "dial_code": "+372",
+    "code": "EE",
+    "timezones": [
+      "Europe/Tallinn"
+    ],
+    "latlng": [
+      59,
+      26
+    ],
+    "capital": "Tallinn"
+  },
+  {
+    "name": "Ethiopia",
+    "dial_code": "+251",
+    "code": "ET",
+    "timezones": [
+      "Africa/Addis_Ababa"
+    ],
+    "latlng": [
+      8,
+      38
+    ],
+    "capital": "Addis Ababa"
+  },
+  {
+    "name": "Finland",
+    "dial_code": "+358",
+    "code": "FI",
+    "timezones": [
+      "Europe/Helsinki"
+    ],
+    "latlng": [
+      64,
+      26
+    ],
+    "capital": "Helsinki"
+  },
+  {
+    "name": "Fiji",
+    "dial_code": "+679",
+    "code": "FJ",
+    "timezones": [
+      "Pacific/Fiji"
+    ],
+    "latlng": [
+      -18,
+      175
+    ],
+    "capital": "Suva"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "dial_code": "+500",
+    "code": "FK",
+    "timezones": [
+      "Atlantic/Stanley"
+    ],
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "capital": "Stanley"
+  },
+  {
+    "name": "France",
+    "dial_code": "+33",
+    "code": "FR",
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "latlng": [
+      46,
+      2
+    ],
+    "capital": "Paris"
+  },
+  {
+    "name": "Faroe Islands",
+    "dial_code": "+298",
+    "code": "FO",
+    "timezones": [
+      "Atlantic/Faroe"
+    ],
+    "latlng": [
+      62,
+      -7
+    ],
+    "capital": "Tórshavn"
+  },
+  {
+    "name": "Micronesia, Federated States of Micronesia",
+    "dial_code": "+691",
+    "code": "FM",
+    "timezones": [
+      "Pacific/Chuuk",
+      "Pacific/Pohnpei",
+      "Pacific/Kosrae"
+    ],
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "capital": "Palikir"
+  },
+  {
+    "name": "Gabon",
+    "dial_code": "+241",
+    "code": "GA",
+    "timezones": [
+      "Africa/Libreville"
+    ],
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "capital": "Libreville"
   },
   {
     "name": "United Kingdom",
     "dial_code": "+44",
-    "code": "GB"
+    "code": "GB",
+    "timezones": [
+      "Europe/London"
+    ],
+    "latlng": [
+      54,
+      -2
+    ],
+    "capital": "London"
   },
   {
-    "name": "United States",
-    "dial_code": "+1",
-    "code": "US"
+    "name": "Georgia",
+    "dial_code": "+995",
+    "code": "GE",
+    "timezones": [
+      "Asia/Tbilisi"
+    ],
+    "latlng": [
+      42,
+      43.5
+    ],
+    "capital": "Tbilisi"
+  },
+  {
+    "name": "Guernsey",
+    "dial_code": "+44",
+    "code": "GG",
+    "timezones": [
+      "Europe/Guernsey"
+    ],
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ],
+    "capital": "St. Peter Port"
+  },
+  {
+    "name": "Ghana",
+    "dial_code": "+233",
+    "code": "GH",
+    "timezones": [
+      "Africa/Accra"
+    ],
+    "latlng": [
+      8,
+      -2
+    ],
+    "capital": "Accra"
+  },
+  {
+    "name": "Gibraltar",
+    "dial_code": "+350",
+    "code": "GI",
+    "timezones": [
+      "Europe/Gibraltar"
+    ],
+    "latlng": [
+      36.13333333,
+      -5.35
+    ],
+    "capital": "Gibraltar"
+  },
+  {
+    "name": "Guinea",
+    "dial_code": "+224",
+    "code": "GN",
+    "timezones": [
+      "Africa/Conakry"
+    ],
+    "latlng": [
+      11,
+      -10
+    ],
+    "capital": "Conakry"
+  },
+  {
+    "name": "Guadeloupe",
+    "dial_code": "+590",
+    "code": "GP",
+    "timezones": [
+      "America/Guadeloupe"
+    ],
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "capital": "Basse-Terre"
+  },
+  {
+    "name": "Gambia",
+    "dial_code": "+220",
+    "code": "GM",
+    "timezones": [
+      "Africa/Banjul"
+    ],
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "capital": "Banjul"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "dial_code": "+245",
+    "code": "GW",
+    "timezones": [
+      "Africa/Bissau"
+    ],
+    "latlng": [
+      12,
+      -15
+    ],
+    "capital": "Bissau"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "dial_code": "+240",
+    "code": "GQ",
+    "timezones": [
+      "Africa/Malabo"
+    ],
+    "latlng": [
+      2,
+      10
+    ],
+    "capital": "Malabo"
+  },
+  {
+    "name": "Greece",
+    "dial_code": "+30",
+    "code": "GR",
+    "timezones": [
+      "Europe/Athens"
+    ],
+    "latlng": [
+      39,
+      22
+    ],
+    "capital": "Athens"
+  },
+  {
+    "name": "Grenada",
+    "dial_code": "+1473",
+    "code": "GD",
+    "timezones": [
+      "America/Grenada"
+    ],
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "capital": "St. George's"
+  },
+  {
+    "name": "Greenland",
+    "dial_code": "+299",
+    "code": "GL",
+    "timezones": [
+      "America/Godthab",
+      "America/Danmarkshavn",
+      "America/Scoresbysund",
+      "America/Thule"
+    ],
+    "latlng": [
+      72,
+      -40
+    ],
+    "capital": "Nuuk"
+  },
+  {
+    "name": "Guatemala",
+    "dial_code": "+502",
+    "code": "GT",
+    "timezones": [
+      "America/Guatemala"
+    ],
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "capital": "Guatemala City"
+  },
+  {
+    "name": "French Guiana",
+    "dial_code": "+594",
+    "code": "GF",
+    "timezones": [
+      "America/Cayenne"
+    ],
+    "latlng": [
+      4,
+      -53
+    ],
+    "capital": "Cayenne"
+  },
+  {
+    "name": "Guam",
+    "dial_code": "+1671",
+    "code": "GU",
+    "timezones": [
+      "Pacific/Guam"
+    ],
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ],
+    "capital": "Hagåtña"
+  },
+  {
+    "name": "Guyana",
+    "dial_code": "+592",
+    "code": "GY",
+    "timezones": [
+      "America/Guyana"
+    ],
+    "latlng": [
+      5,
+      -59
+    ],
+    "capital": "Georgetown"
+  },
+  {
+    "name": "Hong Kong",
+    "dial_code": "+852",
+    "code": "HK",
+    "timezones": [
+      "Asia/Hong_Kong"
+    ],
+    "latlng": [
+      22.267,
+      114.188
+    ],
+    "capital": "City of Victoria"
+  },
+  {
+    "name": "Honduras",
+    "dial_code": "+504",
+    "code": "HN",
+    "timezones": [
+      "America/Tegucigalpa"
+    ],
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "capital": "Tegucigalpa"
+  },
+  {
+    "name": "Croatia",
+    "dial_code": "+385",
+    "code": "HR",
+    "timezones": [
+      "Europe/Zagreb"
+    ],
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "capital": "Zagreb"
+  },
+  {
+    "name": "Haiti",
+    "dial_code": "+509",
+    "code": "HT",
+    "timezones": [
+      "America/Port-au-Prince"
+    ],
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "capital": "Port-au-Prince"
+  },
+  {
+    "name": "Hungary",
+    "dial_code": "+36",
+    "code": "HU",
+    "timezones": [
+      "Europe/Budapest"
+    ],
+    "latlng": [
+      47,
+      20
+    ],
+    "capital": "Budapest"
+  },
+  {
+    "name": "Indonesia",
+    "dial_code": "+62",
+    "code": "ID",
+    "timezones": [
+      "Asia/Jakarta",
+      "Asia/Pontianak",
+      "Asia/Makassar",
+      "Asia/Jayapura"
+    ],
+    "latlng": [
+      -5,
+      120
+    ],
+    "capital": "Jakarta"
+  },
+  {
+    "name": "Isle of Man",
+    "dial_code": "+44",
+    "code": "IM",
+    "timezones": [
+      "Europe/Isle_of_Man"
+    ],
+    "latlng": [
+      54.25,
+      -4.5
+    ],
+    "capital": "Douglas"
+  },
+  {
+    "name": "India",
+    "dial_code": "+91",
+    "code": "IN",
+    "timezones": [
+      "Asia/Kolkata"
+    ],
+    "latlng": [
+      20,
+      77
+    ],
+    "capital": "New Delhi"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "dial_code": "+246",
+    "code": "IO",
+    "timezones": [
+      "Indian/Chagos"
+    ],
+    "latlng": [
+      -6,
+      71.5
+    ],
+    "capital": "Diego Garcia"
+  },
+  {
+    "name": "Ireland",
+    "dial_code": "+353",
+    "code": "IE",
+    "timezones": [
+      "Europe/Dublin"
+    ],
+    "latlng": [
+      53,
+      -8
+    ],
+    "capital": "Dublin"
+  },
+  {
+    "name": "Iran, Islamic Republic of Persian Gulf",
+    "dial_code": "+98",
+    "code": "IR",
+    "timezones": [
+      "Asia/Tehran"
+    ],
+    "latlng": [
+      32,
+      53
+    ],
+    "capital": "Tehran"
+  },
+  {
+    "name": "Iraq",
+    "dial_code": "+964",
+    "code": "IQ",
+    "timezones": [
+      "Asia/Baghdad"
+    ],
+    "latlng": [
+      33,
+      44
+    ],
+    "capital": "Baghdad"
+  },
+  {
+    "name": "Iceland",
+    "dial_code": "+354",
+    "code": "IS",
+    "timezones": [
+      "Atlantic/Reykjavik"
+    ],
+    "latlng": [
+      65,
+      -18
+    ],
+    "capital": "Reykjavik"
+  },
+  {
+    "name": "Israel",
+    "dial_code": "+972",
+    "code": "IL",
+    "timezones": [
+      "Asia/Jerusalem"
+    ],
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "capital": "Jerusalem"
+  },
+  {
+    "name": "Italy",
+    "dial_code": "+39",
+    "code": "IT",
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "capital": "Rome"
+  },
+  {
+    "name": "Jamaica",
+    "dial_code": "+1876",
+    "code": "JM",
+    "timezones": [
+      "America/Jamaica"
+    ],
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "capital": "Kingston"
+  },
+  {
+    "name": "Jersey",
+    "dial_code": "+44",
+    "code": "JE",
+    "timezones": [
+      "Europe/Jersey"
+    ],
+    "latlng": [
+      49.25,
+      -2.16666666
+    ],
+    "capital": "Saint Helier"
+  },
+  {
+    "name": "Jordan",
+    "dial_code": "+962",
+    "code": "JO",
+    "timezones": [
+      "Asia/Amman"
+    ],
+    "latlng": [
+      31,
+      36
+    ],
+    "capital": "Amman"
+  },
+  {
+    "name": "Japan",
+    "dial_code": "+81",
+    "code": "JP",
+    "timezones": [
+      "Asia/Tokyo"
+    ],
+    "latlng": [
+      36,
+      138
+    ],
+    "capital": "Tokyo"
+  },
+  {
+    "name": "Kazakhstan",
+    "dial_code": "+7",
+    "code": "KZ",
+    "timezones": [
+      "Asia/Almaty",
+      "Asia/Qyzylorda",
+      "Asia/Aqtobe",
+      "Asia/Aqtau",
+      "Asia/Oral"
+    ],
+    "latlng": [
+      48,
+      68
+    ],
+    "capital": "Astana"
+  },
+  {
+    "name": "Kenya",
+    "dial_code": "+254",
+    "code": "KE",
+    "timezones": [
+      "Africa/Nairobi"
+    ],
+    "latlng": [
+      1,
+      38
+    ],
+    "capital": "Nairobi"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "dial_code": "+996",
+    "code": "KG",
+    "timezones": [
+      "Asia/Bishkek"
+    ],
+    "latlng": [
+      41,
+      75
+    ],
+    "capital": "Bishkek"
+  },
+  {
+    "name": "Cambodia",
+    "dial_code": "+855",
+    "code": "KH",
+    "timezones": [
+      "Asia/Phnom_Penh"
+    ],
+    "latlng": [
+      13,
+      105
+    ],
+    "capital": "Phnom Penh"
+  },
+  {
+    "name": "Kiribati",
+    "dial_code": "+686",
+    "code": "KI",
+    "timezones": [
+      "Pacific/Tarawa",
+      "Pacific/Enderbury",
+      "Pacific/Kiritimati"
+    ],
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "capital": "South Tarawa"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "dial_code": "+1869",
+    "code": "KN",
+    "timezones": [
+      "America/St_Kitts"
+    ],
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "capital": "Basseterre"
+  },
+  {
+    "name": "Korea, Republic of South Korea",
+    "dial_code": "+82",
+    "code": "KR",
+    "timezones": [
+      "Asia/Seoul"
+    ],
+    "latlng": [
+      37,
+      127.5
+    ],
+    "capital": "Seoul"
+  },
+  {
+    "name": "Kosovo",
+    "dial_code": "+383",
+    "code": "XK",
+    "timezones": [
+      "Europe/Belgrade"
+    ],
+    "latlng": [
+      42.666667,
+      21.166667
+    ],
+    "capital": "Pristina"
+  },
+  {
+    "name": "Kuwait",
+    "dial_code": "+965",
+    "code": "KW",
+    "timezones": [
+      "Asia/Kuwait"
+    ],
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "capital": "Kuwait City"
+  },
+  {
+    "name": "Laos",
+    "dial_code": "+856",
+    "code": "LA",
+    "timezones": [
+      "Asia/Vientiane"
+    ],
+    "latlng": [
+      18,
+      105
+    ],
+    "capital": "Vientiane"
+  },
+  {
+    "name": "Lebanon",
+    "dial_code": "+961",
+    "code": "LB",
+    "timezones": [
+      "Asia/Beirut"
+    ],
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "capital": "Beirut"
+  },
+  {
+    "name": "Liberia",
+    "dial_code": "+231",
+    "code": "LR",
+    "timezones": [
+      "Africa/Monrovia"
+    ],
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "capital": "Monrovia"
+  },
+  {
+    "name": "Libyan Arab Jamahiriya",
+    "dial_code": "+218",
+    "code": "LY",
+    "timezones": [
+      "Africa/Tripoli"
+    ],
+    "latlng": [
+      25,
+      17
+    ],
+    "capital": "Tripoli"
+  },
+  {
+    "name": "Saint Lucia",
+    "dial_code": "+1758",
+    "code": "LC",
+    "timezones": [
+      "America/St_Lucia"
+    ],
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "capital": "Castries"
+  },
+  {
+    "name": "Liechtenstein",
+    "dial_code": "+423",
+    "code": "LI",
+    "timezones": [
+      "Europe/Vaduz"
+    ],
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "capital": "Vaduz"
+  },
+  {
+    "name": "Sri Lanka",
+    "dial_code": "+94",
+    "code": "LK",
+    "timezones": [
+      "Asia/Colombo"
+    ],
+    "latlng": [
+      7,
+      81
+    ],
+    "capital": "Colombo"
+  },
+  {
+    "name": "Lesotho",
+    "dial_code": "+266",
+    "code": "LS",
+    "timezones": [
+      "Africa/Maseru"
+    ],
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "capital": "Maseru"
+  },
+  {
+    "name": "Lithuania",
+    "dial_code": "+370",
+    "code": "LT",
+    "timezones": [
+      "Europe/Vilnius"
+    ],
+    "latlng": [
+      56,
+      24
+    ],
+    "capital": "Vilnius"
+  },
+  {
+    "name": "Luxembourg",
+    "dial_code": "+352",
+    "code": "LU",
+    "timezones": [
+      "Europe/Luxembourg"
+    ],
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "capital": "Luxembourg"
+  },
+  {
+    "name": "Latvia",
+    "dial_code": "+371",
+    "code": "LV",
+    "timezones": [
+      "Europe/Riga"
+    ],
+    "latlng": [
+      57,
+      25
+    ],
+    "capital": "Riga"
+  },
+  {
+    "name": "Macao",
+    "dial_code": "+853",
+    "code": "MO",
+    "timezones": [
+      "Asia/Macau"
+    ],
+    "latlng": [
+      22.16666666,
+      113.55
+    ],
+    "capital": null
+  },
+  {
+    "name": "Saint Martin",
+    "dial_code": "+590",
+    "code": "MF",
+    "timezones": [
+      "America/Marigot"
+    ],
+    "latlng": [
+      18.08333333,
+      -63.95
+    ],
+    "capital": "Marigot"
+  },
+  {
+    "name": "Morocco",
+    "dial_code": "+212",
+    "code": "MA",
+    "timezones": [
+      "Africa/Casablanca"
+    ],
+    "latlng": [
+      32,
+      -5
+    ],
+    "capital": "Rabat"
+  },
+  {
+    "name": "Monaco",
+    "dial_code": "+377",
+    "code": "MC",
+    "timezones": [
+      "Europe/Monaco"
+    ],
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "capital": "Monaco"
+  },
+  {
+    "name": "Moldova",
+    "dial_code": "+373",
+    "code": "MD",
+    "timezones": [
+      "Europe/Chisinau"
+    ],
+    "latlng": [
+      47,
+      29
+    ],
+    "capital": "Chișinău"
+  },
+  {
+    "name": "Madagascar",
+    "dial_code": "+261",
+    "code": "MG",
+    "timezones": [
+      "Indian/Antananarivo"
+    ],
+    "latlng": [
+      -20,
+      47
+    ],
+    "capital": "Antananarivo"
+  },
+  {
+    "name": "Maldives",
+    "dial_code": "+960",
+    "code": "MV",
+    "timezones": [
+      "Indian/Maldives"
+    ],
+    "latlng": [
+      3.25,
+      73
+    ],
+    "capital": "Malé"
+  },
+  {
+    "name": "Mexico",
+    "dial_code": "+52",
+    "code": "MX",
+    "timezones": [
+      "America/Mexico_City",
+      "America/Cancun",
+      "America/Merida",
+      "America/Monterrey",
+      "America/Matamoros",
+      "America/Mazatlan",
+      "America/Chihuahua",
+      "America/Ojinaga",
+      "America/Hermosillo",
+      "America/Tijuana",
+      "America/Bahia_Banderas"
+    ],
+    "latlng": [
+      23,
+      -102
+    ],
+    "capital": "Mexico City"
+  },
+  {
+    "name": "Marshall Islands",
+    "dial_code": "+692",
+    "code": "MH",
+    "timezones": [
+      "Pacific/Majuro",
+      "Pacific/Kwajalein"
+    ],
+    "latlng": [
+      9,
+      168
+    ],
+    "capital": "Majuro"
+  },
+  {
+    "name": "Macedonia",
+    "dial_code": "+389",
+    "code": "MK",
+    "timezones": [
+      "Europe/Skopje"
+    ],
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "capital": "Skopje"
+  },
+  {
+    "name": "Mali",
+    "dial_code": "+223",
+    "code": "ML",
+    "timezones": [
+      "Africa/Bamako"
+    ],
+    "latlng": [
+      17,
+      -4
+    ],
+    "capital": "Bamako"
+  },
+  {
+    "name": "Malta",
+    "dial_code": "+356",
+    "code": "MT",
+    "timezones": [
+      "Europe/Malta"
+    ],
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "capital": "Valletta"
+  },
+  {
+    "name": "Myanmar",
+    "dial_code": "+95",
+    "code": "MM",
+    "timezones": [
+      "Asia/Rangoon"
+    ],
+    "latlng": [
+      22,
+      98
+    ],
+    "capital": "Naypyidaw"
+  },
+  {
+    "name": "Montenegro",
+    "dial_code": "+382",
+    "code": "ME",
+    "timezones": [
+      "Europe/Podgorica"
+    ],
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "capital": "Podgorica"
+  },
+  {
+    "name": "Mongolia",
+    "dial_code": "+976",
+    "code": "MN",
+    "timezones": [
+      "Asia/Ulaanbaatar",
+      "Asia/Hovd",
+      "Asia/Choibalsan"
+    ],
+    "latlng": [
+      46,
+      105
+    ],
+    "capital": "Ulan Bator"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "dial_code": "+1670",
+    "code": "MP",
+    "timezones": [
+      "Pacific/Saipan"
+    ],
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "capital": "Saipan"
+  },
+  {
+    "name": "Mozambique",
+    "dial_code": "+258",
+    "code": "MZ",
+    "timezones": [
+      "Africa/Maputo"
+    ],
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "capital": "Maputo"
+  },
+  {
+    "name": "Mauritania",
+    "dial_code": "+222",
+    "code": "MR",
+    "timezones": [
+      "Africa/Nouakchott"
+    ],
+    "latlng": [
+      20,
+      -12
+    ],
+    "capital": "Nouakchott"
+  },
+  {
+    "name": "Montserrat",
+    "dial_code": "+1664",
+    "code": "MS",
+    "timezones": [
+      "America/Montserrat"
+    ],
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "capital": "Plymouth"
+  },
+  {
+    "name": "Martinique",
+    "dial_code": "+596",
+    "code": "MQ",
+    "timezones": [
+      "America/Martinique"
+    ],
+    "latlng": [
+      14.666667,
+      -61
+    ],
+    "capital": "Fort-de-France"
+  },
+  {
+    "name": "Mauritius",
+    "dial_code": "+230",
+    "code": "MU",
+    "timezones": [
+      "Indian/Mauritius"
+    ],
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "capital": "Port Louis"
+  },
+  {
+    "name": "Malawi",
+    "dial_code": "+265",
+    "code": "MW",
+    "timezones": [
+      "Africa/Blantyre"
+    ],
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "capital": "Lilongwe"
+  },
+  {
+    "name": "Malaysia",
+    "dial_code": "+60",
+    "code": "MY",
+    "timezones": [
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching"
+    ],
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "capital": "Kuala Lumpur"
+  },
+  {
+    "name": "Mayotte",
+    "dial_code": "+262",
+    "code": "YT",
+    "timezones": [
+      "Indian/Mayotte"
+    ],
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "capital": "Mamoudzou"
+  },
+  {
+    "name": "Namibia",
+    "dial_code": "+264",
+    "code": "NA",
+    "timezones": [
+      "Africa/Windhoek"
+    ],
+    "latlng": [
+      -22,
+      17
+    ],
+    "capital": "Windhoek"
+  },
+  {
+    "name": "New Caledonia",
+    "dial_code": "+687",
+    "code": "NC",
+    "timezones": [
+      "Pacific/Noumea"
+    ],
+    "latlng": [
+      -21.5,
+      165.5
+    ],
+    "capital": "Nouméa"
+  },
+  {
+    "name": "Niger",
+    "dial_code": "+227",
+    "code": "NE",
+    "timezones": [
+      "Africa/Niamey"
+    ],
+    "latlng": [
+      16,
+      8
+    ],
+    "capital": "Niamey"
+  },
+  {
+    "name": "Norfolk Island",
+    "dial_code": "+672",
+    "code": "NF",
+    "timezones": [
+      "Pacific/Norfolk"
+    ],
+    "latlng": [
+      -29.03333333,
+      167.95
+    ],
+    "capital": "Kingston"
+  },
+  {
+    "name": "Nigeria",
+    "dial_code": "+234",
+    "code": "NG",
+    "timezones": [
+      "Africa/Lagos"
+    ],
+    "latlng": [
+      10,
+      8
+    ],
+    "capital": "Abuja"
+  },
+  {
+    "name": "Nicaragua",
+    "dial_code": "+505",
+    "code": "NI",
+    "timezones": [
+      "America/Managua"
+    ],
+    "latlng": [
+      13,
+      -85
+    ],
+    "capital": "Managua"
+  },
+  {
+    "name": "Niue",
+    "dial_code": "+683",
+    "code": "NU",
+    "timezones": [
+      "Pacific/Niue"
+    ],
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "capital": "Alofi"
+  },
+  {
+    "name": "Netherlands",
+    "dial_code": "+31",
+    "code": "NL",
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "capital": "Amsterdam"
+  },
+  {
+    "name": "Norway",
+    "dial_code": "+47",
+    "code": "NO",
+    "timezones": [
+      "Europe/Oslo"
+    ],
+    "latlng": [
+      62,
+      10
+    ],
+    "capital": "Oslo"
+  },
+  {
+    "name": "Nepal",
+    "dial_code": "+977",
+    "code": "NP",
+    "timezones": [
+      "Asia/Kathmandu"
+    ],
+    "latlng": [
+      28,
+      84
+    ],
+    "capital": "Kathmandu"
+  },
+  {
+    "name": "Nauru",
+    "dial_code": "+674",
+    "code": "NR",
+    "timezones": [
+      "Pacific/Nauru"
+    ],
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "capital": "Yaren"
+  },
+  {
+    "name": "New Zealand",
+    "dial_code": "+64",
+    "code": "NZ",
+    "timezones": [
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ],
+    "latlng": [
+      -41,
+      174
+    ],
+    "capital": "Wellington"
+  },
+  {
+    "name": "Oman",
+    "dial_code": "+968",
+    "code": "OM",
+    "timezones": [
+      "Asia/Muscat"
+    ],
+    "latlng": [
+      21,
+      57
+    ],
+    "capital": "Muscat"
+  },
+  {
+    "name": "Pakistan",
+    "dial_code": "+92",
+    "code": "PK",
+    "timezones": [
+      "Asia/Karachi"
+    ],
+    "latlng": [
+      30,
+      70
+    ],
+    "capital": "Islamabad"
+  },
+  {
+    "name": "Panama",
+    "dial_code": "+507",
+    "code": "PA",
+    "timezones": [
+      "America/Panama"
+    ],
+    "latlng": [
+      9,
+      -80
+    ],
+    "capital": "Panama City"
+  },
+  {
+    "name": "Pitcairn",
+    "dial_code": "+64",
+    "code": "PN",
+    "timezones": [
+      "Pacific/Pitcairn"
+    ],
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ],
+    "capital": "Adamstown"
+  },
+  {
+    "name": "Peru",
+    "dial_code": "+51",
+    "code": "PE",
+    "timezones": [
+      "America/Lima"
+    ],
+    "latlng": [
+      -10,
+      -76
+    ],
+    "capital": "Lima"
+  },
+  {
+    "name": "Philippines",
+    "dial_code": "+63",
+    "code": "PH",
+    "timezones": [
+      "Asia/Manila"
+    ],
+    "latlng": [
+      13,
+      122
+    ],
+    "capital": "Manila"
+  },
+  {
+    "name": "Palau",
+    "dial_code": "+680",
+    "code": "PW",
+    "timezones": [
+      "Pacific/Palau"
+    ],
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "capital": "Ngerulmud"
+  },
+  {
+    "name": "Papua New Guinea",
+    "dial_code": "+675",
+    "code": "PG",
+    "timezones": [
+      "Pacific/Port_Moresby",
+      "Pacific/Bougainville"
+    ],
+    "latlng": [
+      -6,
+      147
+    ],
+    "capital": "Port Moresby"
+  },
+  {
+    "name": "Poland",
+    "dial_code": "+48",
+    "code": "PL",
+    "timezones": [
+      "Europe/Warsaw"
+    ],
+    "latlng": [
+      52,
+      20
+    ],
+    "capital": "Warsaw"
+  },
+  {
+    "name": "Puerto Rico",
+    "dial_code": "+1939",
+    "code": "PR",
+    "timezones": [
+      "America/Puerto_Rico"
+    ],
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "capital": "San Juan"
+  },
+  {
+    "name": "Korea, Democratic People's Republic of Korea",
+    "dial_code": "+850",
+    "code": "KP",
+    "timezones": [
+      "Asia/Pyongyang"
+    ],
+    "latlng": [
+      40,
+      127
+    ],
+    "capital": "Pyongyang"
+  },
+  {
+    "name": "Portugal",
+    "dial_code": "+351",
+    "code": "PT",
+    "timezones": [
+      "Europe/Lisbon",
+      "Atlantic/Madeira",
+      "Atlantic/Azores"
+    ],
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "capital": "Lisbon"
+  },
+  {
+    "name": "Paraguay",
+    "dial_code": "+595",
+    "code": "PY",
+    "timezones": [
+      "America/Asuncion"
+    ],
+    "latlng": [
+      -23,
+      -58
+    ],
+    "capital": "Asunción"
+  },
+  {
+    "name": "Palestinian Territory, Occupied",
+    "dial_code": "+970",
+    "code": "PS",
+    "timezones": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ],
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "capital": "Ramallah"
+  },
+  {
+    "name": "French Polynesia",
+    "dial_code": "+689",
+    "code": "PF",
+    "timezones": [
+      "Pacific/Tahiti",
+      "Pacific/Marquesas",
+      "Pacific/Gambier"
+    ],
+    "latlng": [
+      -15,
+      -140
+    ],
+    "capital": "Papeetē"
+  },
+  {
+    "name": "Qatar",
+    "dial_code": "+974",
+    "code": "QA",
+    "timezones": [
+      "Asia/Qatar"
+    ],
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "capital": "Doha"
+  },
+  {
+    "name": "Reunion",
+    "dial_code": "+262",
+    "code": "RE",
+    "timezones": [
+      "Indian/Reunion"
+    ],
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "capital": "Saint-Denis"
+  },
+  {
+    "name": "Romania",
+    "dial_code": "+40",
+    "code": "RO",
+    "timezones": [
+      "Europe/Bucharest"
+    ],
+    "latlng": [
+      46,
+      25
+    ],
+    "capital": "Bucharest"
+  },
+  {
+    "name": "Russia",
+    "dial_code": "+7",
+    "code": "RU",
+    "timezones": [
+      "Europe/Kaliningrad",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Volgograd",
+      "Europe/Kirov",
+      "Europe/Astrakhan",
+      "Europe/Samara",
+      "Europe/Ulyanovsk",
+      "Asia/Yekaterinburg",
+      "Asia/Omsk",
+      "Asia/Novosibirsk",
+      "Asia/Barnaul",
+      "Asia/Tomsk",
+      "Asia/Novokuznetsk",
+      "Asia/Krasnoyarsk",
+      "Asia/Irkutsk",
+      "Asia/Chita",
+      "Asia/Yakutsk",
+      "Asia/Khandyga",
+      "Asia/Vladivostok",
+      "Asia/Ust-Nera",
+      "Asia/Magadan",
+      "Asia/Sakhalin",
+      "Asia/Srednekolymsk",
+      "Asia/Kamchatka",
+      "Asia/Anadyr"
+    ],
+    "latlng": [
+      60,
+      100
+    ],
+    "capital": "Moscow"
+  },
+  {
+    "name": "Rwanda",
+    "dial_code": "+250",
+    "code": "RW",
+    "timezones": [
+      "Africa/Kigali"
+    ],
+    "latlng": [
+      -2,
+      30
+    ],
+    "capital": "Kigali"
+  },
+  {
+    "name": "Saudi Arabia",
+    "dial_code": "+966",
+    "code": "SA",
+    "timezones": [
+      "Asia/Riyadh"
+    ],
+    "latlng": [
+      25,
+      45
+    ],
+    "capital": "Riyadh"
+  },
+  {
+    "name": "Sudan",
+    "dial_code": "+249",
+    "code": "SD",
+    "timezones": [
+      "Africa/Khartoum"
+    ],
+    "latlng": [
+      15,
+      30
+    ],
+    "capital": "Khartoum"
+  },
+  {
+    "name": "Senegal",
+    "dial_code": "+221",
+    "code": "SN",
+    "timezones": [
+      "Africa/Dakar"
+    ],
+    "latlng": [
+      14,
+      -14
+    ],
+    "capital": "Dakar"
+  },
+  {
+    "name": "Singapore",
+    "dial_code": "+65",
+    "code": "SG",
+    "timezones": [
+      "Asia/Singapore"
+    ],
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "capital": "Singapore"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "dial_code": "+500",
+    "code": "GS",
+    "timezones": [
+      "Atlantic/South_Georgia"
+    ],
+    "latlng": [
+      -54.5,
+      -37
+    ],
+    "capital": "King Edward Point"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "dial_code": "+47",
+    "code": "SJ",
+    "timezones": [
+      "Arctic/Longyearbyen"
+    ],
+    "latlng": [
+      78,
+      20
+    ],
+    "capital": "Longyearbyen"
+  },
+  {
+    "name": "Solomon Islands",
+    "dial_code": "+677",
+    "code": "SB",
+    "timezones": [
+      "Pacific/Guadalcanal"
+    ],
+    "latlng": [
+      -8,
+      159
+    ],
+    "capital": "Honiara"
+  },
+  {
+    "name": "Sierra Leone",
+    "dial_code": "+232",
+    "code": "SL",
+    "timezones": [
+      "Africa/Freetown"
+    ],
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "capital": "Freetown"
+  },
+  {
+    "name": "El Salvador",
+    "dial_code": "+503",
+    "code": "SV",
+    "timezones": [
+      "America/El_Salvador"
+    ],
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "capital": "San Salvador"
+  },
+  {
+    "name": "San Marino",
+    "dial_code": "+378",
+    "code": "SM",
+    "timezones": [
+      "Europe/San_Marino"
+    ],
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "capital": "City of San Marino"
+  },
+  {
+    "name": "Somalia",
+    "dial_code": "+252",
+    "code": "SO",
+    "timezones": [
+      "Africa/Mogadishu"
+    ],
+    "latlng": [
+      10,
+      49
+    ],
+    "capital": "Mogadishu"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "dial_code": "+508",
+    "code": "PM",
+    "timezones": [
+      "America/Miquelon"
+    ],
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "capital": "Saint-Pierre"
+  },
+  {
+    "name": "Serbia",
+    "dial_code": "+381",
+    "code": "RS",
+    "timezones": [
+      "Europe/Belgrade"
+    ],
+    "latlng": [
+      44,
+      21
+    ],
+    "capital": "Belgrade"
+  },
+  {
+    "name": "South Sudan",
+    "dial_code": "+211",
+    "code": "SS",
+    "timezones": [
+      "Africa/Juba"
+    ],
+    "latlng": [
+      7,
+      30
+    ],
+    "capital": "Juba"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "dial_code": "+239",
+    "code": "ST",
+    "timezones": [
+      "Africa/Sao_Tome"
+    ],
+    "latlng": [
+      1,
+      7
+    ],
+    "capital": "São Tomé"
+  },
+  {
+    "name": "Suriname",
+    "dial_code": "+597",
+    "code": "SR",
+    "timezones": [
+      "America/Paramaribo"
+    ],
+    "latlng": [
+      4,
+      -56
+    ],
+    "capital": "Paramaribo"
+  },
+  {
+    "name": "Slovakia",
+    "dial_code": "+421",
+    "code": "SK",
+    "timezones": [
+      "Europe/Bratislava"
+    ],
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "capital": "Bratislava"
+  },
+  {
+    "name": "Slovenia",
+    "dial_code": "+386",
+    "code": "SI",
+    "timezones": [
+      "Europe/Ljubljana"
+    ],
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "capital": "Ljubljana"
+  },
+  {
+    "name": "Sweden",
+    "dial_code": "+46",
+    "code": "SE",
+    "timezones": [
+      "Europe/Stockholm"
+    ],
+    "latlng": [
+      62,
+      15
+    ],
+    "capital": "Stockholm"
+  },
+  {
+    "name": "Swaziland",
+    "dial_code": "+268",
+    "code": "SZ",
+    "timezones": [
+      "Africa/Mbabane"
+    ],
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "capital": "Lobamba"
+  },
+  {
+    "timezones": [
+      "America/Lower_Princes"
+    ],
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "capital": "Philipsburg"
+  },
+  {
+    "name": "Seychelles",
+    "dial_code": "+248",
+    "code": "SC",
+    "timezones": [
+      "Indian/Mahe"
+    ],
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "capital": "Victoria"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "dial_code": "+963",
+    "code": "SY",
+    "timezones": [
+      "Asia/Damascus"
+    ],
+    "latlng": [
+      35,
+      38
+    ],
+    "capital": "Damascus"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "dial_code": "+1649",
+    "code": "TC",
+    "timezones": [
+      "America/Grand_Turk"
+    ],
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "capital": "Cockburn Town"
+  },
+  {
+    "name": "Chad",
+    "dial_code": "+235",
+    "code": "TD",
+    "timezones": [
+      "Africa/Ndjamena"
+    ],
+    "latlng": [
+      15,
+      19
+    ],
+    "capital": "N'Djamena"
+  },
+  {
+    "name": "Togo",
+    "dial_code": "+228",
+    "code": "TG",
+    "timezones": [
+      "Africa/Lome"
+    ],
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "capital": "Lomé"
+  },
+  {
+    "name": "Thailand",
+    "dial_code": "+66",
+    "code": "TH",
+    "timezones": [
+      "Asia/Bangkok"
+    ],
+    "latlng": [
+      15,
+      100
+    ],
+    "capital": "Bangkok"
+  },
+  {
+    "name": "Tajikistan",
+    "dial_code": "+992",
+    "code": "TJ",
+    "timezones": [
+      "Asia/Dushanbe"
+    ],
+    "latlng": [
+      39,
+      71
+    ],
+    "capital": "Dushanbe"
+  },
+  {
+    "name": "Tokelau",
+    "dial_code": "+690",
+    "code": "TK",
+    "timezones": [
+      "Pacific/Fakaofo"
+    ],
+    "latlng": [
+      -9,
+      -172
+    ],
+    "capital": "Fakaofo"
+  },
+  {
+    "name": "Turkmenistan",
+    "dial_code": "+993",
+    "code": "TM",
+    "timezones": [
+      "Asia/Ashgabat"
+    ],
+    "latlng": [
+      40,
+      60
+    ],
+    "capital": "Ashgabat"
+  },
+  {
+    "name": "Timor-Leste",
+    "dial_code": "+670",
+    "code": "TL",
+    "timezones": [
+      "Asia/Dili"
+    ],
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "capital": "Dili"
+  },
+  {
+    "name": "Tonga",
+    "dial_code": "+676",
+    "code": "TO",
+    "timezones": [
+      "Pacific/Tongatapu"
+    ],
+    "latlng": [
+      -20,
+      -175
+    ],
+    "capital": "Nuku'alofa"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "dial_code": "+1868",
+    "code": "TT",
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "latlng": [
+      11,
+      -61
+    ],
+    "capital": "Port of Spain"
+  },
+  {
+    "name": "Tunisia",
+    "dial_code": "+216",
+    "code": "TN",
+    "timezones": [
+      "Africa/Tunis"
+    ],
+    "latlng": [
+      34,
+      9
+    ],
+    "capital": "Tunis"
+  },
+  {
+    "name": "Turkey",
+    "dial_code": "+90",
+    "code": "TR",
+    "timezones": [
+      "Europe/Istanbul"
+    ],
+    "latlng": [
+      39,
+      35
+    ],
+    "capital": "Ankara"
+  },
+  {
+    "name": "Tuvalu",
+    "dial_code": "+688",
+    "code": "TV",
+    "timezones": [
+      "Pacific/Funafuti"
+    ],
+    "latlng": [
+      -8,
+      178
+    ],
+    "capital": "Funafuti"
+  },
+  {
+    "name": "Taiwan",
+    "dial_code": "+886",
+    "code": "TW",
+    "timezones": [
+      "Asia/Taipei"
+    ],
+    "latlng": [
+      23.5,
+      121
+    ],
+    "capital": "Taipei"
+  },
+  {
+    "name": "Tanzania, United Republic of Tanzania",
+    "dial_code": "+255",
+    "code": "TZ",
+    "timezones": [
+      "Africa/Dar_es_Salaam"
+    ],
+    "latlng": [
+      -6,
+      35
+    ],
+    "capital": "Dodoma"
+  },
+  {
+    "name": "Uganda",
+    "dial_code": "+256",
+    "code": "UG",
+    "timezones": [
+      "Africa/Kampala"
+    ],
+    "latlng": [
+      1,
+      32
+    ],
+    "capital": "Kampala"
+  },
+  {
+    "name": "Ukraine",
+    "dial_code": "+380",
+    "code": "UA",
+    "timezones": [
+      "Europe/Kiev",
+      "Europe/Uzhgorod",
+      "Europe/Zaporozhye"
+    ],
+    "latlng": [
+      49,
+      32
+    ],
+    "capital": "Kiev"
+  },
+  {
+    "timezones": [
+      "Pacific/Johnston",
+      "Pacific/Midway",
+      "Pacific/Wake"
+    ],
+    "latlng": [
+      19.2911437,
+      166.618332
+    ],
+    "capital": null
   },
   {
     "name": "Uruguay",
     "dial_code": "+598",
-    "code": "UY"
+    "code": "UY",
+    "timezones": [
+      "America/Montevideo"
+    ],
+    "latlng": [
+      -33,
+      -56
+    ],
+    "capital": "Montevideo"
+  },
+  {
+    "name": "United States",
+    "dial_code": "+1",
+    "code": "US",
+    "timezones": [
+      "America/New_York",
+      "America/Detroit",
+      "America/Kentucky/Louisville",
+      "America/Kentucky/Monticello",
+      "America/Indiana/Indianapolis",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Indiana/Marengo",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vevay",
+      "America/Chicago",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Knox",
+      "America/Menominee",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/North_Dakota/Beulah",
+      "America/Denver",
+      "America/Boise",
+      "America/Phoenix",
+      "America/Los_Angeles",
+      "America/Anchorage",
+      "America/Juneau",
+      "America/Sitka",
+      "America/Metlakatla",
+      "America/Yakutat",
+      "America/Nome",
+      "America/Adak",
+      "Pacific/Honolulu"
+    ],
+    "latlng": [
+      38,
+      -97
+    ],
+    "capital": "Washington D.C."
   },
   {
     "name": "Uzbekistan",
     "dial_code": "+998",
-    "code": "UZ"
+    "code": "UZ",
+    "timezones": [
+      "Asia/Samarkand",
+      "Asia/Tashkent"
+    ],
+    "latlng": [
+      41,
+      64
+    ],
+    "capital": "Tashkent"
   },
   {
-    "name": "Vanuatu",
-    "dial_code": "+678",
-    "code": "VU"
+    "name": "Holy See (Vatican City State)",
+    "dial_code": "+379",
+    "code": "VA",
+    "timezones": [
+      "Europe/Vatican"
+    ],
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "capital": "Vatican City"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "dial_code": "+1784",
+    "code": "VC",
+    "timezones": [
+      "America/St_Vincent"
+    ],
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "capital": "Kingstown"
   },
   {
     "name": "Venezuela, Bolivarian Republic of Venezuela",
     "dial_code": "+58",
-    "code": "VE"
-  },
-  {
-    "name": "Vietnam",
-    "dial_code": "+84",
-    "code": "VN"
+    "code": "VE",
+    "timezones": [
+      "America/Caracas"
+    ],
+    "latlng": [
+      8,
+      -66
+    ],
+    "capital": "Caracas"
   },
   {
     "name": "Virgin Islands, British",
     "dial_code": "+1284",
-    "code": "VG"
+    "code": "VG",
+    "timezones": [
+      "America/Tortola"
+    ],
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "capital": "Road Town"
   },
   {
     "name": "Virgin Islands, U.S.",
     "dial_code": "+1340",
-    "code": "VI"
+    "code": "VI",
+    "timezones": [
+      "America/St_Thomas"
+    ],
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "capital": "Charlotte Amalie"
+  },
+  {
+    "name": "Vietnam",
+    "dial_code": "+84",
+    "code": "VN",
+    "timezones": [
+      "Asia/Ho_Chi_Minh"
+    ],
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "capital": "Hanoi"
+  },
+  {
+    "name": "Vanuatu",
+    "dial_code": "+678",
+    "code": "VU",
+    "timezones": [
+      "Pacific/Efate"
+    ],
+    "latlng": [
+      -16,
+      167
+    ],
+    "capital": "Port Vila"
   },
   {
     "name": "Wallis and Futuna",
     "dial_code": "+681",
-    "code": "WF"
+    "code": "WF",
+    "timezones": [
+      "Pacific/Wallis"
+    ],
+    "latlng": [
+      -13.3,
+      -176.2
+    ],
+    "capital": "Mata-Utu"
+  },
+  {
+    "name": "Samoa",
+    "dial_code": "+685",
+    "code": "WS",
+    "timezones": [
+      "Pacific/Apia"
+    ],
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "capital": "Apia"
   },
   {
     "name": "Yemen",
     "dial_code": "+967",
-    "code": "YE"
+    "code": "YE",
+    "timezones": [
+      "Asia/Aden"
+    ],
+    "latlng": [
+      15,
+      48
+    ],
+    "capital": "Sana'a"
+  },
+  {
+    "name": "South Africa",
+    "dial_code": "+27",
+    "code": "ZA",
+    "timezones": [
+      "Africa/Johannesburg"
+    ],
+    "latlng": [
+      -29,
+      24
+    ],
+    "capital": "Pretoria"
   },
   {
     "name": "Zambia",
     "dial_code": "+260",
-    "code": "ZM"
+    "code": "ZM",
+    "timezones": [
+      "Africa/Lusaka"
+    ],
+    "latlng": [
+      -15,
+      30
+    ],
+    "capital": "Lusaka"
   },
   {
     "name": "Zimbabwe",
     "dial_code": "+263",
-    "code": "ZW"
+    "code": "ZW",
+    "timezones": [
+      "Africa/Harare"
+    ],
+    "latlng": [
+      -20,
+      30
+    ],
+    "capital": "Harare"
   }
 ]

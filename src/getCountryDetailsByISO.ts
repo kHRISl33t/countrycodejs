@@ -1,12 +1,12 @@
 import countries from './countries.json';
-import { ICountry } from './types';
+import { Country, Maybe } from './types';
 
-export function byISOCode(isoCode: string): ICountry | null {
-  const foundCountry = countries.find((country: ICountry) => country.code === isoCode);
+export const byISOCode = (isoCode: string): Maybe<Country> => {
+  const foundCountry = countries.find((country) => country.code === isoCode);
 
   if (!foundCountry) {
     return null;
   }
 
-  return foundCountry;
-}
+  return foundCountry as Country;
+};

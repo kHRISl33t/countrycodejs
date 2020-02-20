@@ -1,8 +1,8 @@
 import countries from './countries.json';
 import { Country, Maybe } from './types';
 
-export const byName = (name: string): Maybe<Country> => {
-  const foundCountry = countries.find((country) => country.name === name);
+export const byCapital = (capital: string): Maybe<Country> => {
+  const foundCountry = countries.find((country) => country.capital === capital);
 
   if (!foundCountry) {
     return null;

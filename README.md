@@ -16,15 +16,67 @@ countryCode.getAllCountries()
 
 // return a country in an object or null if it was not found
 countryCode.getCountry.byISOCode('HU')
-// => { code: "HU", name: "Hungary", dial_code: "+36" }
+// {
+//   "name": "Hungary",
+//   "dial_code": "+36",
+//   "code": "HU",
+//   "timezones": [
+//     "Europe/Budapest"
+//   ],
+//   "latlng": [
+//     47,
+//     20
+//   ],
+//   "capital": "Budapest"
+// }
 
 // return a country in an object or null if it was not found
 countryCode.getCountry.byDialCode('+36')
-// => { code: "HU", name: "Hungary", dial_code: "+36" }
+// {
+//   "name": "Hungary",
+//   "dial_code": "+36",
+//   "code": "HU",
+//   "timezones": [
+//     "Europe/Budapest"
+//   ],
+//   "latlng": [
+//     47,
+//     20
+//   ],
+//   "capital": "Budapest"
+// }
 
 // return a country in an object or null if it was not found
-countryCode.getCountry.byISOCode('Hungary')
-// => { code: "HU", name: "Hungary", dial_code: "+36" }
+countryCode.getCountry.byName('Hungary')
+// {
+//   "name": "Hungary",
+//   "dial_code": "+36",
+//   "code": "HU",
+//   "timezones": [
+//     "Europe/Budapest"
+//   ],
+//   "latlng": [
+//     47,
+//     20
+//   ],
+//   "capital": "Budapest"
+// }
+
+// return a country in an object or null if it was not found
+countryCode.getCountry.byCapital('Budapest')
+// {
+//   "name": "Hungary",
+//   "dial_code": "+36",
+//   "code": "HU",
+//   "timezones": [
+//     "Europe/Budapest"
+//   ],
+//   "latlng": [
+//     47,
+//     20
+//   ],
+//   "capital": "Budapest"
+// }
 ```
 
 ## Author

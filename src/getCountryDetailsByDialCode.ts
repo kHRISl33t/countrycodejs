@@ -1,12 +1,12 @@
 import countries from './countries.json';
-import { ICountry } from './types';
+import { Country, Maybe } from './types';
 
-export function byDialCode(dialCode: string): ICountry | null {
-  const foundCountry = countries.find((country: ICountry) => country.dial_code === dialCode);
+export const byDialCode = (dialCode: string): Maybe<Country> => {
+  const foundCountry = countries.find((country) => country.dial_code === dialCode);
 
   if (!foundCountry) {
     return null;
   }
 
-  return foundCountry;
-}
+  return foundCountry as Country;
+};
