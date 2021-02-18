@@ -5,7 +5,10 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
-    "countrycode", "countrycodes", "geolocation", "countrycodejs"
+    "countrycode",
+    "countrycodes",
+    "geolocation",
+    "countrycodejs"
   ],
   "scripts": {
     "test": "echo Running tests...",
