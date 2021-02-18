@@ -508,11 +508,6 @@
     "capital": "Havana"
   },
   {
-    "timezones": ["America/Curacao"],
-    "latlng": [12.116667, -68.933333],
-    "capital": "Willemstad"
-  },
-  {
     "name": "Christmas Island",
     "dial_code": "+61",
     "code": "CX",
@@ -615,11 +610,6 @@
     "timezones": ["Africa/Asmara"],
     "latlng": [15, 39],
     "capital": "Asmara"
-  },
-  {
-    "timezones": ["Africa/El_Aaiun"],
-    "latlng": [24.5, -13],
-    "capital": "El Aaiún"
   },
   {
     "name": "Spain",
@@ -1795,11 +1785,6 @@
     "timezones": ["Africa/Mbabane"],
     "latlng": [-26.5, 31.5],
     "capital": "Lobamba"
-  },
-  {
-    "timezones": ["America/Lower_Princes"],
-    "latlng": [18.033333, -63.05],
-    "capital": "Philipsburg"
   },
   {
     "name": "Seychelles",
