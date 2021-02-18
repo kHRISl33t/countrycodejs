@@ -35,8 +35,5 @@
   },
   "files": [
     "lib/**/*"
-  ],
-  "publishConfig": {
-    "registry": "https://npmjs.com/package/countrycodejs"
-  }
+  ]
 }
