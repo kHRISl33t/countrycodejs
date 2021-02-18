@@ -1,6 +1,6 @@
 {
   "name": "countrycodejs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Country code validation",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -37,6 +37,6 @@
     "lib/**/*"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npmjs.com/package/countrycodejs"
   }
 }
